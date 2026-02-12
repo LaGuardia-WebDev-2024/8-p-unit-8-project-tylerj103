@@ -3,6 +3,7 @@ var cowGone = false;
 var cow2Gone = false;
 var cow3Gone = false;
 var cow4Gone = false;
+var Ailenmove=0
 
 setup = function() {
     size(600, 400);
